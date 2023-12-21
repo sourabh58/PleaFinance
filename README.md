@@ -1,7 +1,7 @@
 # PLENA-FINANCE
 
-![s](https://github.com/sourabh58/PleaFinance/assets/41618544/67b2ccdf-bb4b-4233-a3c3-86f3a1c0943f =100x200)
-<img src="https://github.com/sourabh58/PleaFinance/assets/41618544/67b2ccdf-bb4b-4233-a3c3-86f3a1c0943f" width="100" height="100">
+
+<img src="https://github.com/sourabh58/PleaFinance/assets/41618544/67b2ccdf-bb4b-4233-a3c3-86f3a1c0943f" width="500" height="500">
 ## Project Overview
 
 This React Native project is designed to create a mobile app with three screens:
