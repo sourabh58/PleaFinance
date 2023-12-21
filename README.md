@@ -1,10 +1,9 @@
 # PLENA-FINANCE
 
-
-![Screenshot_2023-12-21-20-49-16-400_host exp exponent](https://github.com/sourabh58/PleaFinance/assets/41618544/44288e99-2b90-4d59-a8a6-ba662922e863)
-![Screenshot_2023-12-21-20-20-30-754_host exp exponent](https://github.com/sourabh58/PleaFinance/assets/41618544/f56d245e-e0e9-4722-96fe-d33bc53ea6d7)
-![Screenshot_2023-12-21-20-20-19-855_host exp exponent](https://github.com/sourabh58/PleaFinance/assets/41618544/4b571beb-c71f-4784-a51a-3a7d833dc17b)
-![Screenshot_2023-12-21-20-20-11-680_host exp exponent](https://github.com/sourabh58/PleaFinance/assets/41618544/c3133646-2904-4503-a39a-f4b1abbb78a6)
+![app-images](https://github.com/sourabh58/PleaFinance/assets/41618544/44288e99-2b90-4d59-a8a6-ba662922e863)
+![app-images](https://github.com/sourabh58/PleaFinance/assets/41618544/f56d245e-e0e9-4722-96fe-d33bc53ea6d7)
+![app-images](https://github.com/sourabh58/PleaFinance/assets/41618544/4b571beb-c71f-4784-a51a-3a7d833dc17b)
+![app-images](https://github.com/sourabh58/PleaFinance/assets/41618544/c3133646-2904-4503-a39a-f4b1abbb78a6)
 
 
 
