@@ -1,6 +1,6 @@
 # PLENA-FINANCE
 
-![Screenshot 1](docs/s.jpg)
+![s](https://github.com/sourabh58/PleaFinance/assets/41618544/67b2ccdf-bb4b-4233-a3c3-86f3a1c0943f)
 
 ## Project Overview
 
