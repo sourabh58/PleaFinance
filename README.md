@@ -43,25 +43,25 @@ Clone this project's repo with:
 
 ```
 git clone https://github.com/sourabh58/PleaFinance
-cd sourabhplenafinance
+cd PleaFinance
 ```
 
-Then install all the packages using `yarn`:
+Then install all the packages using `npm`:
 
 ```
-yarn
+npm install
 ```
 
-Install the app on your **Android Emulator**:
+Install the app on your mobile from google app store **Android Emulator**:
 
 ```
-npx expo run:android
+Expo Go
 ```
 
 Then, start the development server:
 
 ```
-yarn start --clear
+npm start --clear
 ```
 
 Now open the app on your **Android Emulator** by pressing `a` from the options given in the terminal.
